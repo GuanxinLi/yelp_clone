@@ -24,7 +24,7 @@
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="k3l-x2-c8i">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" red="0.71002538069999999" green="0.1137579004" blue="0.017028012709999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="BusinessCell" rowHeight="120" id="0dH-3X-9lb" customClass="BusinessCell" customModule="Yelp" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="28" width="375" height="120"/>
@@ -120,7 +120,8 @@
                                 </prototypes>
                             </tableView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="0.71002538069999999" green="0.1137579004" blue="0.017028012709999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="tintColor" red="0.71002538069999999" green="0.1137579004" blue="0.017028012709999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="VBY-gq-v8E" firstAttribute="top" secondItem="k3l-x2-c8i" secondAttribute="bottom" id="FZ7-NX-9pg"/>
                             <constraint firstItem="k3l-x2-c8i" firstAttribute="top" secondItem="XhR-oz-92f" secondAttribute="top" id="GG9-ui-FD6"/>
@@ -156,4 +157,5 @@
             <point key="canvasLocation" x="1871" y="357"/>
         </scene>
     </scenes>
+    <color key="tintColor" red="0.71002538069999999" green="0.1137579004" blue="0.017028012709999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
 </document>
