@@ -9,6 +9,7 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 - [x] Table rows for search results should be dynamic height according to the content height. (3pt)
+<img src='https://imgur.com/LPVhGd9.gif' title='AutoLayout' width='' alt='Video Walkthrough' />
 - [x] Custom cells should have the proper Auto Layout constraints. (+5pt)
 - [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does). (+2pt)
 
